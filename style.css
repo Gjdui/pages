@@ -1,0 +1,33 @@
+@charset "utf-8";
+.container header {
+	background-color: #1F9CAB;
+}
+.container header nav {
+	background-color: #14ACC4;
+	background-image: url(images/rabbit2.jpg.jpg);
+}
+.container #about  {
+	background-color: #14ACC4;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,62,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,62,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,62,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(0,62,255,1.00) 100%);
+}
+.container .banner {
+	background-image: url(images/dog1.jpg.jpg);
+}
+.container .copyright {
+	background-image: -webkit-linear-gradient(270deg,rgba(16,105,155,1.00) 0%,rgba(255,0,0,1.00) 100%), url(images/cat3.jpg.jpg);
+	background-image: -moz-linear-gradient(270deg,rgba(16,105,155,1.00) 0%,rgba(255,0,0,1.00) 100%), url(images/cat3.jpg.jpg);
+	background-image: -o-linear-gradient(270deg,rgba(16,105,155,1.00) 0%,rgba(255,0,0,1.00) 100%), url(images/cat3.jpg.jpg);
+	background-image: linear-gradient(180deg,rgba(16,105,155,1.00) 0%,rgba(255,0,0,1.00) 100%), url(images/cat3.jpg.jpg);
+}
+.container #contact {
+	background-image: url(images/dog1.jpg.jpg);
+}
+
+
+
+.container #hero {
+	background-image: url(images/rabbit2.jpg.jpg);
+}
